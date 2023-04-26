@@ -34,8 +34,8 @@ Display the results.
 
 ## Program
 ```python
-Developed By: Pranave B
-Register No : 2122221240040
+Developed By: Kersoan P
+Register No : 212221230050
 ``` 
 
 ```python
@@ -48,9 +48,9 @@ import matplotlib.pyplot as plt
 
 # Read the Image and convert to grayscale
 
-image=cv2.imread("Sasuke.png",1)
+image=cv2.imread("image.jpg",1)
 image=cv2.cvtColor(image,cv2.COLOR_BGR2RGB)
-image_gray=cv2.imread("Sasuke.png",0)
+image_gray=cv2.imread("image.jpg",0)
 
 
 # Use Global thresholding to segment the image
@@ -97,7 +97,7 @@ for i in range(0,9):
 
 ### Original Image
 
-![](g.png)
+![](1.png)
 
 ### Global Thresholding
 ![](tb.png)
