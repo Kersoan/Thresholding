@@ -1,4 +1,4 @@
-# Thresholding of Images
+# EX-09--Thresholding of Images
 ## Aim
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
@@ -100,17 +100,17 @@ for i in range(0,9):
 ![](1.png)
 
 ### Global Thresholding
-![](tb.png)
-![](tbi.png)
-![](tz.png)
-![](tzi.png)
-![](tt.png)
+![](2.png)
+![](3.png)
+![](4.png)
+![](5.png)
+![](6.png)
 ### Adaptive Thresholding
-![](am.png)
-![](ag.png)
+![](7.png)
+![](8.png)
 
 ### Optimum Global Thesholding using Otsu's Method
-![](o.png)
+![](9.png)
 
 
 ## Result
