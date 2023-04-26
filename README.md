@@ -39,6 +39,7 @@ Register No : 212221230050
 ``` 
 
 ```python
+
 # Load the necessary packages
 
 import cv2
